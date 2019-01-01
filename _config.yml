@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Beck-Sec
+description: Weekly infosec projects to always be learning.
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://bec-sec.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: 
+   twitter: 
+   facebook: 
+   email: james.beck@richmond.edu
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
